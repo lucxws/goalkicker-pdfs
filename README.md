@@ -1,8 +1,6 @@
 # goalkicker is a website with programming books (pdf)
 https://goalkicker.com/
 - I downloaded all files and uploaded here, so you can access easily
-
-# Python code to download
 ```python
 import requests
 import re
