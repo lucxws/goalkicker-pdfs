@@ -1,6 +1,7 @@
 # goalkicker is a website with programming books (pdf)
 https://goalkicker.com/
-- I downloaded all files and uploaded here, so you can access easily
+- This repo contains all 47 books from the website.
+- You can download by yourself also using this script below.
 ```python
 import requests
 import re
